@@ -8,7 +8,7 @@ image:
   repository: kaylascho/spring-boot-mongo
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: "2d8a49354cd013c2efbf509b545181e5cea6835f"
+  tag: "77e22ad71bb6b4093fcc27f0e4e8fe10aa75a2d2"
 
 imagePullSecrets: []
 nameOverride: ""
